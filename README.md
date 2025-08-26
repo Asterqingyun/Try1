@@ -3,3 +3,5 @@ This is a respitory for a fresh man to try to attain some ideas,and welcome anyo
 and this is what I am writing
 hello,this is a new one.
 hello,another
+git diff (staged as the working directory)
+git diff --staged (staged vs last commit)
